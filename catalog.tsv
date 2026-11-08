@@ -1,17 +1,6 @@
 id	session	class_name	section_title	subject	subfolder	file_name	download_url	size_bytes	size_formatted	extension	updated_at
 folder_2026-27_10th_Additional_Subjects_Artificial_Intelligence	2026-27	10th	Additional Subjects	Artificial Intelligence				0			08 Nov 2026
 folder_2026-27_10th_Additional_Subjects_Information_Technology	2026-27	10th	Additional Subjects	Information Technology				0			08 Nov 2026
-folder_2026-27_10th_Core_Subjects_Hindi_Grammar	2026-27	10th	Core Subjects	Hindi	Grammar			0			08 Nov 2026
-folder_2026-27_10th_Core_Subjects_Hindi_Literature	2026-27	10th	Core Subjects	Hindi	Literature			0			08 Nov 2026
-folder_2026-27_10th_Core_Subjects_Maths_Basic	2026-27	10th	Core Subjects	Maths	Basic			0			08 Nov 2026
-folder_2026-27_10th_Core_Subjects_Maths_Standard	2026-27	10th	Core Subjects	Maths	Standard			0			08 Nov 2026
-folder_2026-27_10th_Core_Subjects_Science_Biology	2026-27	10th	Core Subjects	Science	Biology			0			08 Nov 2026
-folder_2026-27_10th_Core_Subjects_Science_Chemistry	2026-27	10th	Core Subjects	Science	Chemistry			0			08 Nov 2026
-folder_2026-27_10th_Core_Subjects_Science_Physics	2026-27	10th	Core Subjects	Science	Physics			0			08 Nov 2026
-folder_2026-27_10th_Core_Subjects_Social Science_Civics	2026-27	10th	Core Subjects	Social Science	Civics			0			08 Nov 2026
-folder_2026-27_10th_Core_Subjects_Social Science_Economics	2026-27	10th	Core Subjects	Social Science	Economics			0			08 Nov 2026
-folder_2026-27_10th_Core_Subjects_Social Science_Geography	2026-27	10th	Core Subjects	Social Science	Geography			0			08 Nov 2026
-folder_2026-27_10th_Core_Subjects_Social Science_History	2026-27	10th	Core Subjects	Social Science	History			0			08 Nov 2026
 folder_2026-27_12th_Additional_Subjects_Fine_Arts	2026-27	12th	Additional Subjects	Fine Arts				0			08 Nov 2026
 folder_2026-27_12th_Additional_Subjects_Physical_Education	2026-27	12th	Additional Subjects	Physical Education				0			08 Nov 2026
 folder_2026-27_12th_Core_Subjects_Biology	2026-27	12th	Core Subjects	Biology				0			08 Nov 2026
@@ -22,6 +11,17 @@ folder_2026-27_12th_Core_Subjects_Maths	2026-27	12th	Core Subjects	Maths				0			
 folder_2026-27_12th_Core_Subjects_Physics	2026-27	12th	Core Subjects	Physics				0			08 Nov 2026
 rec_2026-27_12th_Core Subjects_Chemistry_936653846	2026-27	12th	Core Subjects	Chemistry		Syllabus.pdf	https://raw.githubusercontent.com/backendworkspacee/mitra/main/2026-27/12th/Core Subjects/Chemistry/Syllabus.pdf	572293	558 KB	pdf	Today
 rec_2026-27_12th_Core Subjects_Maths_135591599	2026-27	12th	Core Subjects	Maths		Syllabus.pdf	https://raw.githubusercontent.com/backendworkspacee/mitra/main/2026-27/12th/Core Subjects/Maths/Syllabus.pdf	411032	401 KB	pdf	Today
+folder_2026-27_10th_Core_Subjects_Hindi_Grammar	2026-27	10th	Core Subjects	Hindi	Grammar			0			08 Nov 2026
+folder_2026-27_10th_Core_Subjects_Hindi_Literature	2026-27	10th	Core Subjects	Hindi	Literature			0			08 Nov 2026
+folder_2026-27_10th_Core_Subjects_Maths_Basic	2026-27	10th	Core Subjects	Maths	Basic			0			08 Nov 2026
+folder_2026-27_10th_Core_Subjects_Maths_Standard	2026-27	10th	Core Subjects	Maths	Standard			0			08 Nov 2026
 rec_2026-27_10th_Core Subjects_Maths_1308637456	2026-27	10th	Core Subjects	Maths		NCERT Textbook.pdf	https://raw.githubusercontent.com/backendworkspacee/mitra/main/2026-27/10th/Core Subjects/Maths/NCERT Textbook.pdf	34465618	32.8 MB	pdf	Today
+folder_2026-27_10th_Core_Subjects_Science_Biology	2026-27	10th	Core Subjects	Science	Biology			0			08 Nov 2026
+folder_2026-27_10th_Core_Subjects_Science_Chemistry	2026-27	10th	Core Subjects	Science	Chemistry			0			08 Nov 2026
+folder_2026-27_10th_Core_Subjects_Science_Physics	2026-27	10th	Core Subjects	Science	Physics			0			08 Nov 2026
 folder_2026-27_10th_Core_Subjects_English_Grammar	2026-27	10th	Core Subjects	English	Grammar			0			08 Nov 2026
 folder_2026-27_10th_Core_Subjects_English_Literature	2026-27	10th	Core Subjects	English	Literature			0			08 Nov 2026
+folder_2026-27_10th_Core_Subjects_Social Science_Civics	2026-27	10th	Core Subjects	Social Science	Civics			0			08 Nov 2026
+folder_2026-27_10th_Core_Subjects_Social Science_Economics	2026-27	10th	Core Subjects	Social Science	Economics			0			08 Nov 2026
+folder_2026-27_10th_Core_Subjects_Social Science_Geography	2026-27	10th	Core Subjects	Social Science	Geography			0			08 Nov 2026
+folder_2026-27_10th_Core_Subjects_Social Science_History	2026-27	10th	Core Subjects	Social Science	History			0			08 Nov 2026
